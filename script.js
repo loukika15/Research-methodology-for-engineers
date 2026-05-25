@@ -1,0 +1,1 @@
+console.log("Research Methodology Website Loaded Successfully");
